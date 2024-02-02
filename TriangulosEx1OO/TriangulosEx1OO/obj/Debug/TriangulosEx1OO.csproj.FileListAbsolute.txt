@@ -1,0 +1,7 @@
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\bin\Debug\TriangulosEx1OO.exe.config
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\bin\Debug\TriangulosEx1OO.exe
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\bin\Debug\TriangulosEx1OO.pdb
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\obj\Debug\TriangulosEx1OO.csproj.AssemblyReference.cache
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\obj\Debug\TriangulosEx1OO.csproj.CoreCompileInputs.cache
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\obj\Debug\TriangulosEx1OO.exe
+C:\Users\vinib\OneDrive\Desktop\curso.net\TriangulosEx1OO\TriangulosEx1OO\obj\Debug\TriangulosEx1OO.pdb
